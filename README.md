@@ -102,8 +102,10 @@ Clone the repository and navigate to the project directory:
 
 ```sh
 git clone https://github.com/trejoscr/vue-pokemon-trivia-game.git
+```
 
-cd pokemon-game
+```sh
+cd vue-pokemon-trivia-game
 ```
 
 ### Install Dependencies
